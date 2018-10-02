@@ -1,6 +1,6 @@
 // Buatlah sebuah fungsi dengan nama dataHandling dengan sebuah parameter untuk menerima argumen. Argumen yang akan diterima adalah sebuah array yang berisi beberapa array sejumlah n. Contoh input dapat dilihat dibawah:
 
-//contoh input
+
 var input = [
                 ["0001", "Roman Alamsyah", "Bandar Lampung", "21/05/1989", "Membaca"],
                 ["0002", "Dika Sembiring", "Medan", "10/10/1992", "Bermain Gitar"],
