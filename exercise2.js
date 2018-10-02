@@ -16,4 +16,4 @@ function balikString (string){
   return str
 }
 
-balikString('hai!')
+balikString('hello')
