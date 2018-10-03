@@ -9,7 +9,7 @@ function pasanganTerbesar(num) {
       besar = jadi
     }
   }
-  return besar;  
+  return Number(besar);  
 }
 
 // TEST CASES
